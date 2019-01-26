@@ -1,3 +1,5 @@
 rootProject.name = 'springbootMultiModule'
 include 'common'
 include 'search'
+include 'core1'
+include 'plugins'
